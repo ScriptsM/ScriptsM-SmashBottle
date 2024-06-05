@@ -22,7 +22,7 @@
 * <a href="https://forum.cfx.re/t/free-scriptsm-watches-watch-the-time-on-your-hand/5236090">[Standalone] ScriptsM-Watches</a>
 
 <p align="center">
-<a href="https://forum.cfx.re/t/free-scriptsm-watches-watch-the-time-on-your-hand/5236090">CFX.RE Topic</a>
+<a href="https://forum.cfx.re/t/free-qbcore-esx-scriptsm-smashbottle-break-the-bottle-and-get-a-simple-weapon/5239562">CFX.RE Topic</a>
 </p>
 
 
