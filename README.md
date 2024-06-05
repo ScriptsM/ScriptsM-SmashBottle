@@ -12,6 +12,12 @@
 * Smash the bottle and get a simple weapon
 * Play sound on smash
 
+  ## Installation: 
+* Download SmashBottle from Releases page
+* Download InteractSound Script
+* Drag bottle.ogg to InteractSound Script
+* Configure SmashBottle for your framework, notifications system and bottle item
+
 ## My other releases:
 * <a href="https://forum.cfx.re/t/qbcore-esx-any-framework-standalone-scriptsm-caravan-live-in-camper/5235865">[Any Framework] Caravan - Live in Camper</a>
 * <a href="https://forum.cfx.re/t/qb-core-fivem-trains-works-with-ox-qb-inventories-and-target-systems-you-can-integrate-your-own-framework/5215756">[QBCore] Trains</a>
